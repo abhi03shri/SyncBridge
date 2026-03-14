@@ -12,7 +12,7 @@ SyncBridge is a lightweight Windows file synchronization tool.
 
 Download the latest version here:
 
-https://github.com/username/SyncBridge/releases
+https://github.com/abhi03shri/SyncBridge/releases
 
 ## Author
 Abhishek Kumar Shriwastva
