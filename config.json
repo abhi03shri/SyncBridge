@@ -1,0 +1,34 @@
+{
+  "profiles": [
+    {
+      "name": "ABHISHEK",
+      "source": "\\\\10.151.105.10\\abpedit\\SOURCE",
+      "destination": "\\\\10.151.12.50\\Destination",
+      "delete_extras": true,
+      "schedule": {
+        "type": "interval",
+        "minutes": 20
+      }
+    },
+    {
+      "name": "CHANDAN",
+      "source": "\\\\10.151.105.10\\abpedit\\DESTINATION",
+      "destination": "\\\\10.151.12.50\\Source",
+      "delete_extras": true,
+      "schedule": {
+        "type": "interval",
+        "minutes": 20
+      }
+    },
+    {
+      "name": "JITENDRA",
+      "source": "\\\\10.151.105.10\\abpedit\\SOURCE",
+      "destination": "\\\\N-d-it-01\\c$\\del",
+      "delete_extras": true,
+      "schedule": {
+        "type": "interval",
+        "minutes": 20
+      }
+    }
+  ]
+}
